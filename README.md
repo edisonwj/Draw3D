@@ -13,7 +13,7 @@ Execute ASampler.java to see a summary of capabilities.
 * @version 1.15 November 2020
 *
 * Copyright 2015 William J. Edison
-* All rights reserved; however, the code may be freely reused.
+* The code may be freely reused.
 *
 * Draw3D was developed, using JavaFX 8, in support of a colleague developing
 * a linear algebra course to provide students/teachers with basic methods for
