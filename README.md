@@ -5,6 +5,7 @@ formatted text file, or its methods can be used by JavaFX programs to create
 a sequence of displays. Some may include animations.
 
 Execute ASampler.java to see a summary of capabilities.
+A number of test and other programs are provided to also illustrate Draw3D use.
 
 /**
 * This application provides a GUI and program interface for 3D drawing.
